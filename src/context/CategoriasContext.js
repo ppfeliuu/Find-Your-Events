@@ -7,7 +7,7 @@ export const CategoriasConsumer = CategoriasContext.Consumer;
 
 class CategoriasProvider extends Component {
 
-    token = 'MKZWK4ABOBPSGJPETSKF';
+    token = '';
 
     state = { 
         categorias : []
